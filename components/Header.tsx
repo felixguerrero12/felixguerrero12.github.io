@@ -10,7 +10,7 @@ export default function Header() {
                     <ul className="flex gap-6">
                         <li><Link href="/">Home</Link></li>
                         <a
-                            href="/portfolio/resume.pdf"  // Add the repository name to the path
+                            href="/resume.pdf"  // Add the repository name to the path
                             target="_blank"
                             rel="noopener noreferrer"
                         >

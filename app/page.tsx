@@ -18,7 +18,7 @@ export default function Home() {
                     <div>
                         <div className="relative w-full aspect-square mb-4">
                             <Image
-                                src="/portfolio/images/profile.jpeg"  // Add the repository name to the path
+                                src="/images/profile.jpeg"  // Add the repository name to the path
                                 alt="Profile"
                                 fill
                                 className="rounded-lg object-cover shadow-lg"
