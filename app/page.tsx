@@ -4,6 +4,12 @@ import ProjectCard from '@/components/ProjectCard'
 import React from "react";
 import Header from "@/components/Header";
 
+export const metadata = {
+    title: 'Felix Guerrero - Security Engineer',
+    description: 'Security Engineer specializing in Threat Hunting and Incident Response',
+}
+
+
 // app/page.tsx
 export default function Home() {
     return (
